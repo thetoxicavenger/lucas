@@ -4,7 +4,7 @@ Create a network-connected TODO app.
 # Features
 * Diplay title and completed status of each todo
 * Allow user to toggle completed status and update on the backend
-* Allow user to search for a specific todo based on title
+* Allow user to search for a specific todo based on title - this should be an offline search. Update the UI with the filtered results.
 
 # API routes
 * GET https://jsonplaceholder.typicode.com/todos
